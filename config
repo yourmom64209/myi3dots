@@ -1,4 +1,4 @@
-# autostart
+
 exec feh --bg-scale /home/user/Downloads/jn2ear0ah9n91.jpg
 gaps inner 7
 for_window [class="^.*"] border pixel 0
